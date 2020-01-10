@@ -10,9 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sportradar/aws-azure-login.git"
+    "url": "https://github.com/hamiltonpacheco/aws-azure-login.git"
   },
-  "bugs": "https://github.com/sportradar/aws-azure-login/issues",
+  "bugs": "https://github.com/hamiltonpacheco/aws-azure-login.git/issues",
   "engines": {
     "node": ">=8.0"
   },
